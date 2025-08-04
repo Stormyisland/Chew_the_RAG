@@ -230,6 +230,7 @@ class RAGEmbeddingVisualizer:
         self.current_embeddings = None
         self.current_words = []
         self.status.config(text="Cleared all content")
+self.
 
 if __name__ == "__main__":
     root = tk.Tk()
